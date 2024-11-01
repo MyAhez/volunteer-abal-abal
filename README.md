@@ -7,3 +7,5 @@ Silahkan gunakan format berikut:<br>
 
 Berikut adalah daftar volunteer yang diterima:
 * Kunpai, [oo.or.id](https://oo.or.id).
+* rizkikurniasan123, [LinkedIn](https://www.LinkedIn.com/)
+
