@@ -6,4 +6,5 @@ Silahkan gunakan format berikut:<br>
 **\* Nama, [Link LinkedIn], [Link Portofolio]**
 
 Berikut adalah daftar volunteer yang diterima:
-*Kunpai, [oo.or.id](https://oo.or.id).*
+* Kunpai, [oo.or.id](https://oo.or.id).
+* rizkikurniasan123, [LinkedIn](https://www.LinkedIn.com/)
